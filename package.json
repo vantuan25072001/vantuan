@@ -1,0 +1,34 @@
+{
+  "name": "lesson_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vantuan25072001/vantuan.git"
+  },
+  "keywords": [
+    "vantuan",
+    "blog",
+    "blog",
+    "f8",
+    "node",
+    "js"
+  ],
+  "author": "vantuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vantuan25072001/vantuan/issues"
+  },
+  "homepage": "https://github.com/vantuan25072001/vantuan#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
